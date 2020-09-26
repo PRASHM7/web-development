@@ -1,2 +1,3 @@
 # web-development
-it c0ntains html ,CSS and Javascript codes
+it contains html ,CSS and Javascript codes
+hello its me and myself
